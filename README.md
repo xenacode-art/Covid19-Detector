@@ -1,12 +1,16 @@
-# COVIDC: An Expert System to Diagnose COVID-19 and Predict its Severity using Chest CT Scans: Application in Radiology
+# COVID19-Detector: 
+##An Expert System to Diagnose COVID-19 and Predict its Severity using SVM , CNN , RNN Algorithms.
 ## Dependencies
-1- python 3.6 
-2- Scikit Learn 0.23 
+1- python 3.9
+2- Scikit Learn 0.24
 3- Tensorflow 
 4- DenseNet121 CNN based pretrained model
+5- RNN
+6-SVM
+7-ResNet CNN
 
 ## How to use?
-Please see covidc_with_weights.py (For its webserver please visit https://covidc.pythonanywhere.com/)
+Please see covidc_with_weights.py at (https://github.com/xenacode-art/Covid19-Detector)
 ## Citation details
 Wajid Arshad Abbasi, Syed Ali Abbas, Saiqa Andleeb, Ghafoor ul Islam, Syeda Adin Ajaz, Kinza Arshad, Sadia Khalil, Asma Anjam, Kashif Ilyas, Mohsib Saleem, Jawad Chughtai, Ayesha Abbas,
 COVIDC: An Expert System to Diagnose COVID-19 and Predict its Severity using Chest CT Scans: Application in Radiology,
